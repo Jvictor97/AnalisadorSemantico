@@ -1,7 +1,7 @@
 <h1>Projeto Analisador Semântico (Compiladores)</h1>
 <hr/>
 <p>Objetivo: Criar um analisador semântico para permitir a produção de um pseudo-código de máquina já compilado.</p>
-
+<p> Baseado na Aula do Professor Pier </p>
  <h2>Exemplo de Entrada:</h2>
 
 ```
